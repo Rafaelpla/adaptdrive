@@ -11,7 +11,7 @@ export default function Home() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <div className="relative w-10 h-10 content-center bg-white rounded-full">
-              <img src="/logo.png" alt="logo" />
+              <img src="/img/logo.png" alt="logo" />
             </div>
             <span className="text-xl font-bold">AdaptDrive</span>
           </div>
@@ -112,12 +112,12 @@ export default function Home() {
         </p>
         <div className="flex w-full h-72 justify-center">
           <img
-            src="/prototipo.png"
+            src="/img/prototipo.png"
             alt="Imagem do produto"
             className="rounded"
           />
           <img
-            src="/prototipoAcelerador.png"
+            src="/img/prototipoAcelerador.png"
             alt="Imagem do produto"
             className="rounded"
           />

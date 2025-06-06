@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "AdaptDrive",
   description: "Descrição da minha página",
   icons: {
-    icon: "/logo.png",
+    icon: "/public/img/logo.png",
   },
 };
 
